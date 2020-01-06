@@ -1,0 +1,9 @@
+name: cache_hash
+version: 0.1.0
+
+authors:
+  - Doug Everly <Doug@Everly.org>
+
+crystal: 0.32.1
+
+license: MIT
